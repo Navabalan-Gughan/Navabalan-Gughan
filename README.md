@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **BSc (Hons) Software Engineering** — Solent University / BCAS Colombo  
-  *Second Class Honours (First Division) · CGPA 8.7*
+  *Second Class Honours (First Division) · GPA 3.3 / 4.0*
 - 🤖 Building toward a career in **AI / Machine Learning Engineering**
 - 🌱 Currently strengthening my **Python** and the fundamentals behind AI applications
 - 🎯 Learning next: **Retrieval-Augmented Generation (RAG)** and **fine-tuning LLMs**
