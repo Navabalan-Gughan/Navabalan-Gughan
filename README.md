@@ -1,59 +1,19 @@
-<h1 align="center">Hi, I'm Navabalan Gughan 👋</h1>
+<h1 align="center">Hi 👋, I'm Navabalan Gughan</h1>
+<h3 align="center">Software Engineering graduate from Sri Lanka, learning to build AI-powered applications</h3>
 
-<p align="center">
-  Software Engineering Graduate · Aspiring AI Engineer · Open to Internships
+- 🔭 I'm currently working on **strengthening my Python fundamentals & first practice projects**
+- 🌱 I'm currently learning **Python, and the fundamentals of building with LLMs — RAG and fine-tuning next**
+- 👯 I'm looking to collaborate on **open-source LLM / RAG tooling projects**
+- 🤝 I'm looking for help with **breaking into applied AI / ML roles**
+- 💬 Ask me about **software engineering fundamentals and my learning journey into AI**
+- 📫 How to reach me **navaraajgughan.dev@gmail.com**
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
-
-<p align="center">📍 Colombo, Sri Lanka</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 **BSc (Hons) Software Engineering** — Solent University / BCAS Colombo  
-  *Second Class Honours (First Division) · GPA 3.3 / 4.0*
-- 🤖 Building toward a career in **AI / Machine Learning Engineering**
-- 🌱 Currently strengthening my **Python** and the fundamentals behind AI applications
-- 🎯 Learning next: **Retrieval-Augmented Generation (RAG)** and **fine-tuning LLMs**
-- 💬 Happy to talk about software engineering, ML concepts, and what I'm currently building
-- 📫 **Open to AI / Software Engineering internships** — let's connect!
-
----
-
-### 🛠️ Tech I Work With
-
-**Currently working with**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Exploring / learning next**
-
-![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Vector_DBs](https://img.shields.io/badge/Vector_Databases-FF6B6B?style=flat&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=flat&logoColor=white)
-![Fine--tuning](https://img.shields.io/badge/Fine--tuning-FBBF24?style=flat&logoColor=black)
-
-> I list a tool as **"working with"** only once I've built something with it. Everything under *learning* is on my roadmap below.
-
----
-
-### 🚀 My Learning Roadmap
-
-```text
-From Software Engineering grad → AI Engineer
-```
-
-- [x] BSc (Hons) Software Engineering
-- [ ] Solid Python foundations *(in progress)*
-- [ ] First small Python projects on GitHub
-- [ ] Learn LLM APIs & prompt engineering
-- [ ] Build a working **RAG** application
-- [ ] Experiment with **fine-tuning** (LoRA / QLoRA)
-- [ ] Contribute to an open-source AI project
 
 ---
 
@@ -81,7 +41,7 @@ From Software Engineering grad → AI Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:navaraajgughan.dev@gmail.com)
 
 ---
 
