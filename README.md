@@ -1,69 +1,75 @@
-<h1 align="center">Hi 👋, I'm Navabalan Gughan</h1>
-<h3 align="center">Aspiring AI Engineer | LLMs · Agents · RAG</h3>
+# Navabalan Gughan
+### AI Engineer | LLMs, Agentic Systems & RAG
 
-<p align="center">
-Software Engineering graduate exploring LLMs, AI agents, and RAG through hands-on projects — currently looking for an <b>AI Engineering internship</b> where I can keep building and learning fast.
-</p>
+Software Engineering graduate building production-style AI systems — retrieval-augmented generation pipelines, fine-tuned LLMs, and autonomous agents. Currently seeking an **AI Engineering internship** to apply and grow these skills on real-world problems.
 
-<p align="center">
-📍 Colombo, Sri Lanka &nbsp;|&nbsp; 📧 navaraajgughan.dev@gmail.com &nbsp;|&nbsp; 🌐 <a href="https://navabalan-gughan.vercel.app/">Portfolio</a>
-</p>
+📍 Colombo, Sri Lanka&nbsp;&nbsp;|&nbsp;&nbsp;📧 [navaraajgughan.dev@gmail.com](mailto:navaraajgughan.dev@gmail.com)&nbsp;&nbsp;|&nbsp;&nbsp;🌐 [Portfolio](https://navabalan-gughan.vercel.app/)&nbsp;&nbsp;|&nbsp;&nbsp;[LinkedIn](#)
 
 ---
 
-### 🚀 About Me
+## About
 
-- 🔭 Building end-to-end AI products — RAG pipelines, fine-tuned LLMs, autonomous agents, and voice/vision systems
-- 🌱 Currently learning **Rust**, to write faster and safer systems-level tooling around AI
-- 💼 Open to **AI Engineering internships**
-- 📈 6 projects shipped · <6 months building with AI · 34+ tools & frameworks used · 2+ models fine-tuned
-- 💬 Ask me about LLMs, RAG, fine-tuning, or agentic systems
+I build end-to-end AI products — from RAG pipelines and fine-tuned LLMs to autonomous agents and voice/vision systems. My focus is turning applied AI research into working, deployable software.
+
+- **Currently exploring:** Rust, for faster and safer systems-level tooling around AI workloads
+- **Open to:** AI Engineering internships
+- **Shipped:** 6 projects spanning RAG, fine-tuning, agents, and computer vision
+- **Ask me about:** LLM fine-tuning, retrieval architectures, or agentic workflow design
 
 ---
 
-### 🛠️ Tech Arsenal
+## Technical Skills
 
 **Generative AI & LLMs**
-`OpenAI GPT-4o` `Claude 3.5 / 4` `Gemini 2.0` `Llama 3 / Mistral` `Ollama` `Groq API`
+OpenAI GPT-4o · Claude 3.5/4 · Gemini 2.0 · Llama 3 · Mistral · Ollama · Groq API
 
-**AI Agents & Orchestration**
-`LangChain` `LangGraph` `CrewAI` `OpenAI Assistants API`
+**Agents & Orchestration**
+LangChain · LangGraph · CrewAI · OpenAI Assistants API
 
 **RAG & Vector Search**
-`LlamaIndex` `ChromaDB` `Pinecone` `FAISS` `pgvector`
+LlamaIndex · ChromaDB · Pinecone · FAISS · pgvector
 
 **Fine-Tuning & Training**
-`HuggingFace Transformers` `PyTorch` `LoRA / QLoRA` `PEFT` `Unsloth` `Weights & Biases`
+HuggingFace Transformers · PyTorch · LoRA/QLoRA · PEFT · Unsloth · Weights & Biases
 
-**AI Dev & Deployment**
-`FastAPI` `Docker` `Vercel` `Hugging Face Spaces` `LangSmith`
+**Deployment & MLOps**
+FastAPI · Docker · Vercel · Hugging Face Spaces · LangSmith
 
 **Core Languages & Tools**
-`Python` `TypeScript` `SQL` `REST APIs` `Pandas / NumPy` `scikit-learn` `Git / GitHub` `Next.js`
+Python · TypeScript · SQL · REST APIs · Pandas/NumPy · scikit-learn · Git · Next.js
 
 ---
 
-### 🌟 Featured Projects
+## Featured Projects
 
-| Project | Category | Description |
-|---|---|---|
-| **DocuMind** — RAG Knowledge Assistant | Retrieval-Augmented Generation | Cuts down support-engineer search time across scattered PDFs, wikis & Slack threads |
-| **SupportTune** — Fine-Tuned Support Bot | Fine-Tuning | Fine-tuned LLM for consistent, on-brand customer support tone |
-| **AgentFlow** — Autonomous Task Agent | AI Agents | Automates multi-step research & data-entry workflows |
-| **ChurnSense** — Customer Churn Predictor | Machine Learning | Early-warning system for proactive customer retention |
-| **SnapCaption** — Vision-Language Captioning | Computer Vision | Auto-generates product descriptions from catalog images |
-| **VoicePilot** — Real-Time Voice Assistant | Speech AI | Hands-free knowledge assistant for field technicians |
+**DocuMind — RAG Knowledge Assistant**
+Retrieval-augmented Q&A system unifying PDFs, wikis, and Slack threads into a single searchable knowledge base, reducing manual search time for support teams.
+`LlamaIndex` `ChromaDB` `FastAPI`
 
-🔗 See all projects on the [portfolio](https://navabalan-gughan.vercel.app/projects)
+**SupportTune — Fine-Tuned Support Bot**
+Fine-tuned an open-source LLM with LoRA to produce consistent, on-brand customer support responses.
+`HuggingFace` `LoRA/QLoRA` `PEFT`
+
+**AgentFlow — Autonomous Task Agent**
+Multi-agent system that automates multi-step research and data-entry workflows with minimal human oversight.
+`LangGraph` `CrewAI`
+
+**ChurnSense — Customer Churn Predictor**
+Early-warning ML model flagging at-risk customers to support proactive retention efforts.
+`scikit-learn` `Pandas`
+
+**SnapCaption — Vision-Language Captioning**
+Auto-generates product descriptions from catalog images using a vision-language pipeline.
+`Computer Vision` `VLMs`
+
+**VoicePilot — Real-Time Voice Assistant**
+Hands-free voice assistant giving field technicians spoken access to technical knowledge bases.
+`Speech AI` `RAG`
+
+Full write-ups and live demos: [navabalan-gughan.vercel.app/projects](https://navabalan-gughan.vercel.app/projects)
 
 ---
 
-### 📫 Let's Connect
+## Contact
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://navabalan-gughan.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navaraajgughan.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Navabalan-Gughan)
-
----
-
-<p align="center"><i>Typically replies within 24 hours — open to AI Engineering internship opportunities 🚀</i></p>
+[Portfolio](https://navabalan-gughan.vercel.app/) · [Email](mailto:navaraajgughan.dev@gmail.com) · [GitHub](https://github.com/Navabalan-Gughan)
